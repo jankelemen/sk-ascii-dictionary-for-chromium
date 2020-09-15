@@ -13,7 +13,7 @@ Pred vložením slovníka bez diakritiky             |  Po vložení slovníka
 - Pokiaľ používaš **Chrome**: Choď do nastavení. Naľavo klikni na `rozšírené` a z menu, ktoré sa vyroluje vyber `jazyky`. Následne klikni na `jazyk` a potom `pridať jazyky`. V okne, ktoré sa otvorí si vyber hocijaký jazyk, ktorý nepotrebuješ na kontrolu gramatiky (ďalej v návode tento jazyk budem nazývať "nepotrebný jazyk"). Slovník tohto jazyka potom nahradíš tým našim. Ja v tomto návode ako "nepotrebný jazyk" použijem Češtinu. Nakoniec nižšie v sekcií `používať kontrolu pravopisu pre jazyky` zaškrtni novo vybraný jazyk
 - Pri **ostatných chromium based** prehliadačoch postupuj tak isto ako pri Chrome, jedine niektoré nastavenia sa budú pravdepodobne kúsok inak volať
 - Tie jazykové nastavenia by mali vyzerať nejak takto:
-<img src="https://github.com/jankelemen/sk-ascii-dictionary-for-chromium/blob/master/images/settings.png" alt="Settings" height="20">
+<img src="https://github.com/jankelemen/sk-ascii-dictionary-for-chromium/blob/master/images/settings.png" alt="Settings" height="400">
 
 2. Počkaj zopár sekúnd pokým prehliadač na pozadí stiahne novo vybraný slovník a potom prehliadač zatvor
 
