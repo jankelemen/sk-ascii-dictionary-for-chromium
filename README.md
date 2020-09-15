@@ -32,7 +32,7 @@ Pred vložením slovníka bez diakritiky             |  Po vložení slovníka
 	- a používaš Brave, choď do priečinka `~/.config/BraveSoftware/Brave-Browser/Dictionaries`
 	- a používaš Vivaldi, choď do priečinka `~/.config/vivaldi/Dictionaries`
 
-- Ak si na **Macku**
+- Ak si na **Macu**
   - a používaš Chrome, choď do priečinka `/Users/<meno požívateľa>/Library/Application Support/Google/Chrome`
 > **Poznámka:** Cesta pre Mac pravdepodobne nie je úplná, keďže nemám Mac a nemám to kde otestovať. Pokiaľ ale vieš, aká má byť správna cesta, neváhaj urobiť pull request, alebo ma kontaktuj na predtým uvedenom maile
 
