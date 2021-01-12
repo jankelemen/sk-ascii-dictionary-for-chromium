@@ -47,10 +47,10 @@ Pred vložením slovníka bez diakritiky             |  Po vložení slovníka
 Slovník, ktorý sa nachádza v tomto repe je upravený slovenský slovník verzie 3.0 z Chromiumu. Celkovo som našiel 3 spôsoby ako tento slovník upraviť. Info ohľadom súborov `.dic` `.aff` `.dic_delta` a kompilácie do `.bidc` si môžeš prečítať [tu](https://github.com/jankelemen/convert-dict-tool-from-chromium). Slovník, ktorý je v tomto repe som vytvoril 3. spôsobom
 
 ## 1. spôsob:
-Súbory `.aff` a `.dic` nechaj na pokoji a do `.dic_delta` "napchaj" celý slovník bez diakritiky, napríklad [tento](https://github.com/sk-spell/hunspell-sk_ascii). Takže výsledný slovník bude obsahovať slová s aj bez diakritiky. Nevýhoda je ale tá, že tento slovník je veľký, keďže `.dic_delta` nemôže obsahovať hunspell pravidlá a kontrola pravopisu je potom pomalá (keď klikneš pravým tlačidlom na červeným podčiarknuté slovo, tak niekdy trvá aj niekoľko sekúnd, pokým prehliadač ponúkne sugescie)
+Súbory `.aff` a `.dic` nechaj na pokoji a do `.dic_delta` "napchaj" celý slovník bez diakritiky, napríklad [tento](https://github.com/sk-spell/hunspell-sk_ascii). Nevýhoda je ale tá, že tento slovník je veľký, keďže `.dic_delta` nemôže obsahovať hunspell pravidlá a kontrola pravopisu je potom pomalá (keď klikneš pravým tlačidlom na červeným podčiarknuté slovo, tak niekdy trvá aj niekoľko sekúnd, pokým prehliadač ponúkne sugescie)
 
 ## 2. spôsob:
-Ide tiež o kombinovanie slovníka s a bez diakritiky. Súbory `.aff`, `.dic` a `.dic_delta` uprav scriptom, ktorý napríklad takýto slovník:
+Ide tiež o kombinovanie slovníkov s a bez diakritiky. Súbory `.aff`, `.dic` a `.dic_delta` uprav scriptom, ktorý napríklad takýto slovník:
 ```
 Abakus
 abdikovať/NW
