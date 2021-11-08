@@ -1,4 +1,4 @@
-Toto repo obsahuje slovenský slovník bez diakritiky pre prehliadače postavené na Chromiume (Google Chrome, Brave, Vivaldi, Edge...). Nižšie sa nachádza návod, ako tento slovník vložiť do prehliadača. Pokiaľ chceš niečo doplniť do tohto návodu, alebo si našiel chybu, vytvor pull request, alebo mi napíš na jan@jankelemen.dev
+Toto repo obsahuje slovenský slovník bez diakritiky pre prehliadače postavené na Chromiume (Google Chrome, Brave, Vivaldi, Edge...). Nižšie sa nachádza návod, ako tento slovník vložiť do prehliadača. Pokiaľ chceš niečo doplniť do tohto návodu, alebo si našiel chybu, vytvor pull request, alebo mi napíš na jan@jankelemen.net
 
 Pokiaľ používaš Firefox, môžeš využiť [túto](https://addons.mozilla.org/en-US/firefox/addon/sk-sk-ascii_spellchecking/) extenziu od Zdenka Podobného
 
